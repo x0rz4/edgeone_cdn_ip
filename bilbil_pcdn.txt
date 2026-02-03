@@ -1,0 +1,4 @@
+||*pcdn*.biliapi.net^$important
+||mcdn.bilivideo.cn^$important
+||szbdyd.com^$important
+#||cn-*.bilivideo.com
